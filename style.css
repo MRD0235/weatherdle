@@ -50,3 +50,11 @@ button {
     height: 35px;
     width: 100px;
 }
+
+.completelyCorrect {
+    background-color: green;
+}
+
+.partiallyCorrect {
+    background-color: goldenrod;
+}
